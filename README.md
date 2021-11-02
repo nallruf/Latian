@@ -1,0 +1,2 @@
+# Latian
+ini latihan 
